@@ -1,0 +1,76 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0%;
+}
+.encabezado{
+    background-color: #052962;
+    color: white;
+}
+a{
+    color: white;
+}
+select{
+    background-color: #052962;
+    color: white;
+}
+.centro{
+    display: flex;
+    justify-content: space-between;
+}
+.flexizquierdo{
+    margin-top: 30px;
+    width: 20%;
+}
+.clima{
+    display: flex;
+}
+.clima1{
+    display: flex;
+}
+.clima2{
+    display: flex;
+}
+.clima3{
+    display: flex;
+}
+.flexcentro{
+    margin-top: 30px;
+    width: 60%;
+    color: white;
+}
+div>div>div>div>h2{
+    color: #ffbac8;
+}
+.superiorcuerpo{
+    display: flex;
+}
+.cuerpo{
+    background-color: #ab0613;
+}
+.cuerpo1Texto{
+    margin: 6px;
+    text-size-adjust: 20px;
+}
+.superiorcuerpo2{
+    display: flex;
+    justify-content: space-between;
+
+}
+h5{
+    color: #ffbac8;
+    margin: 0%;
+}
+.cuerpo2{
+    background-color: #f6f6f6;
+}
+h3{
+    color: #ab0613;
+}
+.flexderecha{
+    margin-top: 30px;
+    width: 20%;
+}
+.superiorderecha{
+    background-color: #f6f6f6;
+}
